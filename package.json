@@ -1,0 +1,26 @@
+{
+    "name": "simple-js-blockchain",
+    "description": "a simple js blockchain implementation in javascript",
+    "version": "1.0.0",
+    "author": "stan nesi",
+    "main": "index.js",
+    "type": "module",
+    "keywords": [
+      "Blockchain",
+      "JavaScript"
+    ],
+    "license": "MIT",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/stanesi/simple-js-blockchain.git"
+    },
+    "dependencies": {
+      "crypto-js": "^4.2.0",
+      "elliptic": "^6.5.5",
+      "node": "^22.2.0"
+    }
+  }

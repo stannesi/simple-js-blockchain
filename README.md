@@ -1,3 +1,2 @@
-# Simple JS Blockchain
-
-__.: Simple JS blockchain implementation in Node.js :.__
+#Simple JS Blockchain
+Simple js blockchain implementation in Node.js
